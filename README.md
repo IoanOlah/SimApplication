@@ -1,0 +1,2 @@
+# SimApplication
+Sistem Inregistrare Miscari
